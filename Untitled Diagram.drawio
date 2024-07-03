@@ -1,9 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T14:04:44.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="lGoiutI6XUMlbSyntuF8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T15:06:35.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="i93hzUQQ7_LKOAuG_1w9" version="24.6.4" type="github">
   <diagram name="Page-1" id="xJ-plOZd_CpgwEaKH2XM">
-    <mxGraphModel>
+    <mxGraphModel dx="2411" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hymb50wysH_sYhl8VWrP-30" value="Total Belanja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-2" value="Suplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-3" value="Nama Barang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hymb50wysH_sYhl8VWrP-4" target="Hymb50wysH_sYhl8VWrP-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-4" value="ID Barang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-5" value="Alamat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-6" value="Jenis Barang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-7" value="ID Suplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hymb50wysH_sYhl8VWrP-2" target="Hymb50wysH_sYhl8VWrP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-9" value="Karyawan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-11" value="Tipe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-12" value="Merek" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-13" value="Helm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-15" value="Ukuran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hymb50wysH_sYhl8VWrP-16" target="Hymb50wysH_sYhl8VWrP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-16" value="Harga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hymb50wysH_sYhl8VWrP-17" target="Hymb50wysH_sYhl8VWrP-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="505" y="285" />
+              <mxPoint x="895" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-17" value="Stok" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-18" value="Merek" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-20" value="Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-21" value="Ukuran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-23" value="No Telfon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-24" value="ID Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-25" value="Alamat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-26" value="Nama Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-27" value="Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-31" value="Total Barang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hymb50wysH_sYhl8VWrP-32" target="Hymb50wysH_sYhl8VWrP-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="400" />
+              <mxPoint x="1" y="400" />
+              <mxPoint x="1" y="270" />
+              <mxPoint x="175" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-32" value="Karyawan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-33" value="Beli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hymb50wysH_sYhl8VWrP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hymb50wysH_sYhl8VWrP-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="183" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="410" />
+              <mxPoint x="183" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
